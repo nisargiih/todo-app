@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.button{
+  background-color: antiquewhite;
+  border-radius: 50px;
+  margin: 10px 10px 10px 10px;
+}
+
+.result{
+  border: 2px solid bisque;
+  margin-bottom: 10px;
+}
+
+input {
+  border-radius: 8px;
+}
+.delete{
+  background-color: aqua;
+}
+
+
+
